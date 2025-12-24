@@ -58,10 +58,4 @@ public class LoginController {
             AlertUtil.showError("Invalid username or password.");
         }
     }
-    private void showError(String msg) {
-        Alert alert = new Alert(Alert.AlertType.ERROR);
-        alert.setHeaderText(null);
-        alert.setContentText(msg);
-        alert.showAndWait();
-    }
 }

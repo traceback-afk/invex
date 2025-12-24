@@ -26,7 +26,7 @@ public class InvexApplication extends Application {
                     .uniqueResult();
 
             if (admin == null) {
-                // create user
+                // create admin user
                 admin = new User();
                 admin.setUsername("admin");
                 admin.setPassword("admin");
