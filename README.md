@@ -1,5 +1,10 @@
 # InvEx: Advanced Inventory Management Application
 
+### Developers
+Khashayar Khosrosourmi 22302442
+
+Sahand Mohammadi 22115582
+
 ## Introduction
 
 InvEx is an inventory management application built using **JavaFX** and **Hibernate ORM**, providing a simple yet efficient and user-friendly interface for managing inventory.
